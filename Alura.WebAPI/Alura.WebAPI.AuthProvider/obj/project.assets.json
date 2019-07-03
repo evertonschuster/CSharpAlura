@@ -11856,11 +11856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\Alura.WebAPI.AuthProvider.csproj",
+      "projectUniqueName": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\Alura.WebAPI.AuthProvider.csproj",
       "projectName": "Alura.WebAPI.AuthProvider",
-      "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\Alura.WebAPI.AuthProvider.csproj",
+      "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\Alura.WebAPI.AuthProvider.csproj",
       "packagesPath": "C:\\Users\\Ever-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\obj\\",
+      "outputPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.AuthProvider\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11879,11 +11879,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
-              "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
+            "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
+              "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
             },
-            "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
-              "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
+            "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
+              "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
             }
           }
         }

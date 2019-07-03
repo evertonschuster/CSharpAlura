@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {}
+    "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
+    "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+        "projectUniqueName": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
         "projectName": "Alura.WebAPI.DAL.Usuarios",
-        "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+        "projectPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
         "packagesPath": "C:\\Users\\Ever-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
+        "outputPath": "C:\\Users\\Ever-PC\\source\\repos\\Alura.WebAPI.FinalAula7\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
